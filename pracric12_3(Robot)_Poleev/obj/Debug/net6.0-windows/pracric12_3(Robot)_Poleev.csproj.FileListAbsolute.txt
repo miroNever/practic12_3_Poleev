@@ -1,0 +1,17 @@
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.csproj.AssemblyReference.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3_Robot__Poleev.Form1.resources
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.csproj.GenerateResource.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.GeneratedMSBuildEditorConfig.editorconfig
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.AssemblyInfoInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.AssemblyInfo.cs
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.csproj.CoreCompileInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\bin\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\bin\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.deps.json
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\bin\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.runtimeconfig.json
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\bin\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\bin\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\refint\pracric12_3(Robot)_Poleev.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\pracric12_3(Robot)_Poleev.genruntimeconfig.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pracric12_3(Robot)_Poleev\obj\Debug\net6.0-windows\ref\pracric12_3(Robot)_Poleev.dll
